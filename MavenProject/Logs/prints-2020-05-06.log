@@ -1,0 +1,7 @@
+16:35:26.019 [main] INFO  resources.BaseClass - Navigated to Home Page
+16:35:26.245 [main] INFO  resources.BaseClass - Succesfully validated Text message
+16:35:49.344 [main] INFO  resources.BaseClass - Non restricted user
+16:35:57.360 [main] INFO  resources.BaseClass - Restricted user
+16:36:13.449 [main] INFO  resources.BaseClass - Navigation bar is displayed
+16:49:11.152 [TestNG-tests-1] INFO  resources.BaseClass - Driver is initialized
+16:49:19.446 [TestNG-tests-1] INFO  resources.BaseClass - Navigated to Home Page

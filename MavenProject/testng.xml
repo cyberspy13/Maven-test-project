@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+<listeners>
+<listener class-name="MavenAcademy.MavenAcademyProject.Listeners"/>
+</listeners>
+
+   <test name="Validating title">
+	    <classes>
+	      <class name="MavenAcademy.MavenAcademyProject.ValidateTitle"/>
+	    </classes>
+   </test>
+   
+    <test name="Validating AppTest">
+	    <classes>
+	      <class name="MavenAcademy.MavenAcademyProject.AppTest"/>
+	    </classes>
+     </test>
+     
+      <test name="Validating Home Page">
+	   	 <classes>
+	      <class name="MavenAcademy.MavenAcademyProject.HomePage"/>
+	      </classes>
+	  </test>
+	  
+	    <test name="Validating the Bar">
+		      <classes>
+		     	 <class name="MavenAcademy.MavenAcademyProject.ValidateBar"/>
+		   	 </classes>
+		</test>
+
+</suite> <!-- Suite -->

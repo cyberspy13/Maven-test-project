@@ -1,0 +1,8 @@
+16:32:20.506 [main] INFO  resources.BaseClass - Restricted user
+16:32:38.425 [main] INFO  resources.BaseClass - Navigation bar is displayed
+16:40:57.028 [main] INFO  resources.BaseClass - Driver is initialized
+16:41:00.478 [main] INFO  resources.BaseClass - Navigated to Home Page
+16:41:20.852 [main] INFO  resources.BaseClass - Non restricted user
+16:41:28.048 [main] INFO  resources.BaseClass - Restricted user
+16:41:42.343 [main] INFO  resources.BaseClass - Navigation bar is displayed
+22:21:36.739 [TestNG-tests-1] INFO  resources.BaseClass - Driver is initialized

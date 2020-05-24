@@ -1,0 +1,7 @@
+00:05:12.348 [TestNG-tests-1] INFO  resources.BaseClass - Navigated to Home Page
+00:05:12.687 [TestNG-tests-4] INFO  resources.BaseClass - Navigation bar is displayed
+00:05:20.184 [TestNG-tests-3] INFO  resources.BaseClass - Non restricted user
+00:05:30.649 [TestNG-tests-3] INFO  resources.BaseClass - Restricted user
+00:26:46.105 [TestNG-tests-1] INFO  resources.BaseClass - Driver is initialized
+00:26:58.816 [TestNG-tests-4] INFO  resources.BaseClass - Navigation bar is displayed
+00:26:59.086 [TestNG-tests-1] INFO  resources.BaseClass - Navigated to Home Page

@@ -1,0 +1,7 @@
+23:01:55.180 [TestNG-tests-3] INFO  resources.BaseClass - Restricted user
+00:02:32.916 [main] INFO  resources.BaseClass - Driver is initialized
+00:02:36.157 [main] INFO  resources.BaseClass - Navigated to Home Page
+00:03:59.573 [main] INFO  resources.BaseClass - Driver is initialized
+00:04:04.587 [main] INFO  resources.BaseClass - Navigated to Home Page
+00:04:05.002 [main] INFO  resources.BaseClass - Succesfully validated Text message
+00:04:05.082 [main] INFO  resources.BaseClass - Succesfully validated Text message
